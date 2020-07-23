@@ -7,8 +7,9 @@ yarn-error.log
 /public
 .DS_Store
 
-.gastby-browser.js
-.gastby-config.js
-.gastby-node.js
-.gastby-ssr.js
-
+gastby-browser.js
+gastby-config.js
+gastby-node.js
+gastby-ssr.js
+package-lock.json
+package.json
